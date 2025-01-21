@@ -1,7 +1,7 @@
 import { add } from './add.js';
 import { subtract } from './sub.js';
-// import { multiply } from './mul.js';
-// import { divide } from './div.js';
+import { multiply } from './mul.js';
+import { divide } from './div.js';
 
 let resultSpan = document.getElementById('result');
 
